@@ -1,0 +1,37 @@
+main{
+    background-color: #f3f1ff;
+}
+/*estilos para el nav bar principal*/
+
+#main-navbar{
+    height: 100px;
+    background-color: #28a745;
+}
+
+.nav-main-menu{
+    height: 100%;
+    
+}
+.nav-item-menu{
+    height: 100%;
+    text-align: center;
+}
+.nav-link-menu{
+    height: 100%;
+    padding: 15px 10px;
+
+
+}
+
+
+
+/*contenido principal*/
+
+.narrow-paragraph {
+    max-width: 400px; /* Establece el ancho máximo deseado */
+    margin: 0 auto; /* Centra el elemento en el centro de la columna */
+  }
+
+.texto-inicio{
+    font-size: larger;
+}
